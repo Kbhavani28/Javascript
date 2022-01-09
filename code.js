@@ -22,13 +22,13 @@ for (let b=1;b<=10;b++)
     console.log('Kanakaraj');
 }*/
 
-/*for(let b=1;b<=5;b++)
+for(let b=1;b<=5;b++)
 {
     console.log('Bhavani');
     for(let k=1;k<=5;k++)
     console.log('Kanakaraj');
 }
-for(let l=5;l>1;l--)
+/*for(let l=5;l>1;l--)
     console.log('Lakshmi')
 
 for(let d=10;d>=1;d--)
@@ -50,7 +50,7 @@ while(p<=100)
         p++
 }*/
 
- let num = -564782
+ //let num = -564782
 /*while(num>0) 
     {
     console.log(num%10)

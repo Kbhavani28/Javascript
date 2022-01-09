@@ -1,0 +1,104 @@
+[
+    {
+        "name":"New Jersey",
+        "governor": "Phil Murphy",
+        "State Capital":"Trenton",
+        "time_zone":"EST",
+        "state_motto":"Liberty and Prosperity",
+        "state_bird":"American Goldfinch",
+        "population":"9.26 million",
+        "state_flower":"Common blue violet"
+    },
+    {
+        "name":"New York",
+        "governor": "Kathy Hochul",
+        "State Capital":"Albany",
+        "time_zone":"EST",
+        "state_motto":"Excelsior",
+        "state_bird":"Eastern Bluebird",
+        "population":"19.8million",
+        "state_flower":"Rose" 
+    },
+    {
+        "name":"Texas",
+        "governor": "Greg Abbott",
+        "State Capital":"Austin",
+        "time_zone":"CST",
+        "state_motto":"Friendship",
+        "state_bird":"Northern Mockingbird",
+        "population":"29,53million",
+        "state_flower":"Bluebonnet"   
+    },
+    {
+        "name":"Maryland",
+        "governor": "Larry Hogan",
+        "State Capital":"Annapolis",
+        "time_zone":"EST",
+        "state_motto":"Fatti maschii,parole femine- which means'Strong deeds,gentle words'",
+        "state_bird":"Baltimore Oriole",
+        "population":"6.2million",
+        "state_flower":"Black-eyed Susan" 
+    },
+    {
+        "name":"Virginia",
+        "governor": "Ralph Northam",
+        "State Capital":"Richmond",
+        "time_zone":"EST",
+        "state_motto":"Sic semper tyrannis- which means'thus always to tryants'",
+        "state_bird":"Cardinal",
+        "population":"8.67million",
+        "state_flower":"Flowering dogwood" 
+    },
+    {
+        "name":"Connecticut",
+        "governor": "Ned Lamont",
+        "State Capital":"Hartford",
+        "time_zone":"EST",
+        "state_motto":"Qui transtulit suistinet- which means'He who transplanted continues to survive'",
+        "state_bird":"American Robin",
+        "population":"3.6million",
+        "state_flower":"Mountain-laurel" 
+    },
+    {
+        "name":"Delaware",
+        "governor": "John Carney",
+        "State Capital":"Dover",
+        "time_zone":"EST",
+        "state_motto":"Liberty and Independence",
+        "state_bird":"Delaware blue hen",
+        "population":"1million",
+        "state_flower":"Peach blossom" 
+        
+    },
+    {
+        "name":"Massachussetts",
+        "governor": "Charlie Baker",
+        "State Capital":"Boston",
+        "time_zone":"EST",
+        "state_motto":"Ense petit placidam sub libertate, quietem -which means'By the sword we seek peace, but peace only under liberty'",
+        "state_bird":"Wild turkey",
+        "population":"6.893million",
+        "state_flower":"The Mayflower" 
+    },
+    {
+       "name":"Florida",
+        "governor": "Ron Desantis",
+        "State Capital":"Tallahasse",
+        "time_zone":"EST",
+        "state_motto":"In God We Trust",
+        "state_bird":"Northern Mocking bird ",
+        "population":"21.48million",
+        "state_flower":"Orange blossom"  
+    },
+    {
+        "name":"Hawaii",
+        "governor": "David Ige",
+        "State Capital":"Honolulu",
+        "time_zone":"Hawaii-Aleutian Standard time",
+        "state_motto":"Ua Mua ke Ea o ka Aina i ka Pono- which means'The life of the land is perpetuated in righteousness'",
+        "state_bird":"Nene",
+        "population":"1.44million",
+        "state_flower":"Yellow Hibiscus" 
+    }
+
+]
