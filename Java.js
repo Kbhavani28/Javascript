@@ -63,5 +63,4 @@ function booleanFlag(num){
 return booleanFlag(num)
 
 
-let one = "pounds to kg"
-let two = "kg to pound"
+

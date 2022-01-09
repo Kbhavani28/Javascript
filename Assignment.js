@@ -87,3 +87,25 @@ var shortest_string = employees.reduce(function(a,b){return a.length <= b.length
 
 console.log(shortest_string)
  */
+
+let employees=['Balu','Lakshmi','Prem','Raj','Ja']
+let smallestOfArray= ''
+let num = 0
+
+
+ function shortestString(employees){
+   
+        num = employees[0].length
+        smallestOfArray=employees[0]
+        for (i=1;i<employees.length;i++)
+         if(employees[i].length<num)
+    {
+        num=employees[i].length;
+        smallestOfArray=employees[i];
+        
+
+    }
+        return(smallestOfArray)
+    
+}
+console.log(shortestString(employees)) 
