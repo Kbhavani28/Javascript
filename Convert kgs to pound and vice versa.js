@@ -1,9 +1,9 @@
-let kilos = undefined
-let pounds = 72
-function convertPounds(kilos,pounds) { 
-    if(kilos)
-        console.log(parseInt(kilos * 2.2))
+let input = 10
+let measurement = 'kg'
+function convertUnits(input,measurement) { 
+    if(measurement === 'kg')
+        return(parseInt(input * 2.2))
     else 
-        console.log(parseInt(pounds /2.2))
+        return(parseInt(input /2.2))
 }
- return convertPounds(kilos,pounds) 
+ console.log(convertUnits(input,measurement) ) 
