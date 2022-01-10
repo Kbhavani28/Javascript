@@ -1,6 +1,6 @@
-let cTemp = 23;
- function convertTemperature(cTemp){
-     let fTemp = cTemp * 9/5 +32;
-        console.log(cTemp+'degree Celsius'+' '+ 'is equal to'+' '+ fTemp+'degree fahrehneit')
- }
- return convertTemperature(cTemp)
+let celsiusTemperature = 44;
+function convertTemperature (celsiusTemperature){
+    return celsiusTemperature *9/5 +32;
+
+}
+console.log(`${celsiusTemperature}` +' '+'degree celsius is equal to'+' '+convertTemperature(celsiusTemperature)+'degree Fahrehneit' )
