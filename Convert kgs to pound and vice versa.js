@@ -1,9 +1,8 @@
-let input = 10
-let measurement = 'kg'
+
 function convertUnits(input,measurement) { 
     if(measurement === 'kg')
-        return(parseInt(input * 2.2))
+        return(parseInt(input * 2.2) +'lbs')
     else 
-        return(parseInt(input /2.2))
+        return(parseInt(input /2.2) +'kg')
 }
- console.log(convertUnits(input,measurement) ) 
+ console.log(convertUnits(20,"kg") ) 
