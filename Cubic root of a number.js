@@ -1,5 +1,5 @@
 function cube(num,exponents) {
-     console.log(num ** exponents)}
-let num=5
-let exponents=3
-return cube(num,exponents) 
+     return num ** exponents
+}
+
+console.log('The cube root is'+' ' +cube(5,3) ) 
