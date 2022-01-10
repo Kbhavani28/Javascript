@@ -1,10 +1,8 @@
-const int='true'
- let num = 4567
- function boolenFlag (int){
-     if(num>=5000 && num<=9999)
-    console.log(`${num} is`+" " +int)
-else
-    console.log(`${num} is`+" " +!int)
- }
-
-return boolenFlag(int) 
+const int=(prompt("Enter a number"), "");
+function booleanFlag(int){
+    if(int>5000 && int<9999)
+        return true;
+    else
+        return false;
+}
+console.log(booleanFlag(int))
