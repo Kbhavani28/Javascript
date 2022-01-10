@@ -1,7 +1,6 @@
 
-let s='Priya'
-function count(s){
-    s='Priya'
+
+function countString(s){
     return s.length
 }
-console.log(count(s))
+console.log('The number of characters in the string is equal to'+' '+countString('Priya'))
