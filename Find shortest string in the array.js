@@ -1,9 +1,9 @@
 //"Using the inbuild function reduce()
  
- let employees=['Balu','Lakshmi','Prem','Raj','Janani']
+  let employees=['Balu','Lakshmi','Prem','Raj','Janani']
 var shortest_string = employees.reduce(function(a,b){return a.length <= b.length?a:b})
 
-console.log(shortest_string +' '+'is the shortest string in the array')
+console.log(shortest_string +' '+'is the shortest string in the array') 
 
 //Using the function 
 let employees=['Balu','Lakshmi','Prem','Raj','Ja']
@@ -15,4 +15,4 @@ let employees=['Balu','Lakshmi','Prem','Raj','Ja']
     }
      return x  
 }
-console.log(shortestString(employees))
+console.log( 'The shortest string in the array is'+' '+shortestString(employees))
