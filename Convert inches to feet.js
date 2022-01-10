@@ -1,7 +1,6 @@
- let inches=3
+ let inches=parseInt(prompt("Enter a inch to convert to feet"), "")
 function convertInches(inches){
-    let feet=inches / 12
-    console.log(`${inches}` +'inches'+' '+'is equal to'+" "+`${feet}`+'feet' )
+    return inches/12
 }
 
-return convertInches(inches)
+console.log('Entered inches is equal to'+' '+convertInches(inches)+' '+'feet')
