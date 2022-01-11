@@ -1,8 +1,8 @@
-const int=(prompt("Enter a number"), "");
-function booleanFlag(int){
-    if(int>5000 && int<9999)
+
+function booleanFlag(num){
+    if(num>5000 && num<9999)
         return true;
     else
         return false;
 }
-console.log(booleanFlag(int))
+console.log(booleanFlag(5678))
